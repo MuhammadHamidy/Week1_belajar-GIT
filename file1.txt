@@ -1,2 +1,3 @@
 info ngampel
 gass 
+fitur B
